@@ -1,7 +1,7 @@
 /* Custom colors */
 :root {
-  --bs-primary: #ff9100;
-  --bs-warning: #ff9100;
+  --bs-primary: #7ee041;
+  --bs-warning: #ffbb00;
 }
 
 /* Hero section */
@@ -246,3 +246,11 @@
             border-top: 4px solid #fd7e14;
             position: relative;
         }
+
+        #mes-réalisations {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f8f8f8;
+}
+
+
